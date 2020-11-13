@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'miscellany.apps.MiscellanyConfig',
+    'miscellany',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

@@ -49,7 +49,7 @@ class User(models.Model):
     
     class Meta:
         verbose_name= 'Cliente'
-        verbose_name_plural= 'Cliente'
+        verbose_name_plural= 'Clientes'
         
 
 
