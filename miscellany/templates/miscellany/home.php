@@ -4,7 +4,7 @@
 {% block content %}
 {% load static %}
 <link rel="stylesheet" type="text/css" href="{% static 'css/miscellany/style.css' %}">
-<img src="{% static 'images/miscellany/bienvenido.png'%}" alt="">
+<img src="https://i.ibb.co/MR6w9C1/bienvenido.png" alt="">
 
     <h1>eMiscelaneas</h1>
     <section>
@@ -18,6 +18,6 @@
         <h3>Si, a la puerta de tu casa solo compra y nosotros nos encargamos de lo demas. </h3>
     </section>
     {% load static %}
-    <img src="{% static 'images/miscellany/logoyslogan.png'%}" alt="">
+    <img src="https://i.ibb.co/cxmzZDN/logoyslogan.png" alt="">
 
 {% endblock %}

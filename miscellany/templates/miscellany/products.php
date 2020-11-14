@@ -124,8 +124,8 @@
   <p class="lead">Detergente en plovo de 3 kg a solo $82.00.</p>
 </div>
 <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
-    <img src="{% static 'images/miscellany/jabon_ace.png'%}">
-    <img src="{% static 'images/miscellany/ace.png'%}">
+    <img src="https://i.ibb.co/TR8Q727/jabon-ace.png">
+    <img src="https://i.ibb.co/875vrDW/ace.png">
 </div>
 </div>
 <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center  overflow-hidden">
@@ -137,7 +137,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/jitomate.png'%}">
+    <img src="https://i.ibb.co/58JjS2y/jitomate.png">
 </div>
 </div>
 </div>
@@ -152,7 +152,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/papel.png'%}">
+    <img src="https://i.ibb.co/nkSmkc4/papel.png">
 </div>
 </div>
 <div class="bg-info mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
@@ -165,7 +165,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/aguacate.png'%}">
+    <img src="https://i.ibb.co/LSJvL65/aguacate.png">
 </div>
 </div>
 </div>
@@ -180,7 +180,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/escudo.png'%}">
+    <img src="https://i.ibb.co/1n1Yhjf/escudo.png">
 </div>
 </div>
 <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -192,7 +192,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/sabritas.png'%}">
+    <img src="https://i.ibb.co/CmQTm46/sabritas.png">
 </div>
 </div>
 </div>
@@ -208,7 +208,7 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/carne.png'%}">
+    <img src="https://i.ibb.co/THB0Sb1/carne.png">
 </div>
 </div>
 <div class="bg-secondary mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -220,15 +220,15 @@
     <br>
     <br>
     <br>
-    <img src="{% static 'images/miscellany/atun.png'%}">
+    <img src="https://i.ibb.co/5sZ0RZN/atun.png">
 </div>
 </div>
 </div>
 <h2>Ya llego!!</h2>
 <h2>Aprovecha nuestras super ofertas <span class="badge badge-secondary">Realiza compras desde tu casa. El Buen Fin ya llego!!</span></h2>
 <footer class="container py-5">
-    <img src="{% static 'images/miscellany/buenfin.png'%}" alt="">
-    <img src="{% static 'images/miscellany/fecha.png'%}" alt="">
+    <img src="https://i.ibb.co/zZbwbJ1/buenfin.png" alt="">
+    <img src="https://i.ibb.co/f0cWgQY/fecha.png" alt="">
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
