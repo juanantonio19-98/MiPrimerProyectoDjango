@@ -7,13 +7,17 @@ from django.utils import timezone
 # Create your views here.
 
 def home(request):
-    return render(request, "miscellany/home.html")
+    return render(request, "miscellany/home.php")
 
 def about(request):
-    return render(request, "miscellany/about.html")
+    return render(request, "miscellany/about.php")
 
 def products(request):
-    return render(request, "miscellany/products.html")
+    return render(request, "miscellany/products.php")
 
 def contact(request):
-    return render(request, "miscellany/contact.html")
+    return render(request, "miscellany/contact.php")
+
+def index(request):
+    return render(request, "admin/index.php")
+  

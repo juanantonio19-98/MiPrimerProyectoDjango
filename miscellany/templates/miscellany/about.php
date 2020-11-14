@@ -1,4 +1,4 @@
-{% extends 'miscellany/base.html' %}
+{% extends 'miscellany/base.php' %}
 
 {% block title %}Acerca de{% endblock %}
 
