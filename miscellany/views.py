@@ -17,7 +17,3 @@ def products(request):
 
 def contact(request):
     return render(request, "miscellany/contact.php")
-
-def index(request):
-    return render(request, "admin/index.php")
-  
